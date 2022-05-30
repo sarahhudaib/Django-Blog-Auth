@@ -45,8 +45,8 @@ docker --version
 Open Console in Main Project Directory.
 
 ```
-$ git clone git@github.com:sarahhudaib/Django-Blog-App.git
-$ cd Django-Blog-App
+$ git clone git@github.com:sarahhudaib/Django-Blog-Auth.git
+$ cd Django-Blog-Auth
 $ python manage.py runserver
 on your browser http://127.0.0.1:8000
 ```
